@@ -11,7 +11,7 @@
 
 - My Portfolio [Portfolio](https://www.harish.lol/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/MdHarish72](https://github.com/MdHarish72)
+- 👨‍💻 All of my projects are available at [https://github.com/MdHarish72](https://github.com/MohammadHarish521)
 
 - 💬 Ask me about **Frontend tech stack**
 
@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mdharish76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdharish76" height="30" width="40" /></a>
+<a href="https://twitter.com/Harish_521" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdharish76" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohammad-harish-52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-harish-52" height="30" width="40" /></a>
 <a href="https://instagram.com/_mohammad_h_arish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mohammad_h_arish" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mohammadharish8740" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mohammadharish8740" height="30" width="40" /></a>
